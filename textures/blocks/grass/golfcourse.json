@@ -10,7 +10,7 @@
   "preview": "golfcourse-top.png",
   "output": {
     "assets/minecraft/textures/block/grass_block_side.png": ["@assets/minecraft/textures/block/dirt.png", "golfcourse-side.png"],
-    "assets/minecraft/textures/block/grass_block_side_overlay.png": ["_blank"],
+    "assets/minecraft/textures/block/grass_block_side_overlay.png": ["golfcourse-side.png"],
     "assets/minecraft/textures/block/grass_block_top.png": ["golfcourse-top.png"]
   }
 }
