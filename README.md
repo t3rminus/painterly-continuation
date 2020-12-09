@@ -123,3 +123,10 @@ Multiple Output Files
   "assets/minecraft/textures/block/grass_block_top.png": "dirt-top.png"
 }
 ```
+
+---
+
+#### A note on composed images:
+While there is nothing technically preventing you from basing a composed image upon another composed image, it is recommended to avoid this. The order that the options are added to the pack is arbitrary, and the composer will simply ignore source files that haven't been composed yet.
+
+However, it is perfectly safe to base a composed image on another image with a single source. Single-source images are copied first, then composed images are generated, so single-source images will always exist in the pack before the composed images are generated.
