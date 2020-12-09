@@ -24,26 +24,44 @@ Some common terms are provided here to add some clarification to the tutorial. I
 ### Create an account
 If you don't already have a GitHub account you can sign up for one here: https://github.com/join
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-1.png?raw=true" width="360" />
 
 ### Download GitHub Desktop
 Once you've completed that process, you will need to download the GitHub desktop application here: https://desktop.github.com
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-2.png?raw=true" width="360" />
+
 The sign-in steps should be very straightforward for GitHub Desktop. It will direct you to the website, ask you to confirm you want to allow the application to sign-in with your account, and then redirect you back to GitHub Destkop. Remember to hit "Open" when presented with a pop-up like this one, otherwise you might need to sign out and back in.
 
-If all goes well, you should see this screen
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-3.png?raw=true" width="360" />
+
+If all goes well, you should see this screen. Hit "Continue" and you'll be ready to go.
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-4.png?raw=true" width="360" />
+
 
 ### Fork the Repository
 
 Now open up the painterly repository here https://github.com/t3rminus/painterly-continuation, and look for the little button in the top-right that says "Fork".
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-5.png?raw=true" width="120" />
+
 One click of this button, and you will have your own fork of the project! It's that easy!
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-6.png?raw=true" width="480" />
 
 To use the project in GitHub Desktop, simply click "Code", then "Open with GitHub Desktop". You'll then be taken to GitHub Desktop, where it will show the URL of your fork, and the location to save it on your computer.
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-7.png?raw=true" width="380" />
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-8.png?raw=true" width="380" />
+
 Finally, GitHub Desktop will ask you how you plan on using this fork. Select "To contribute to the parent project". This choice affects what information is displayed in GitHub Desktop, and picks defaults that refer back to the original repository, rather than your fork.
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-9.png?raw=true" width="380" />
 
 You're now ready to make all the changes you'd like! If you didn't change the defaults, the repository is kept in your Documents folder, under "GitHub". You can also open it by clicking here:
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-10.png?raw=true" width="380" />
 ---
 
 ## Step 2 - Make your changes
@@ -51,12 +69,17 @@ You're now ready to make all the changes you'd like! If you didn't change the de
 ### Create a branch
 The first step in making changes is to create a **branch**. This will allow you to keep your changes grouped together, and let you work on new changes while you're waiting for others to review your other work.
 
+
 Simply click "Branch", then "New branch...". Name the branch whatever you'd like, but a short, descriptive name is better.
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-12.png?raw=true" width="380" />
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-11.png?raw=true" width="380" />
 
 Once that's done, you're ready to start editing!
 
 ### Make changes!
 There's no tutorial for this step. You have a copy you can edit to your heart's content!
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-13.png?raw=true" width="640" />
 
 **Important Note:** While you can make thousands of changes all at once, and submit a *massive* pull request all together, please do not do this. Limit yourself to small, bite-size changes, ideally no more than 4-5 textures or choices at a time. Even break it up into a single choice or change.
 
@@ -71,18 +94,34 @@ We have to review each change you make, and trying to sort through thousands of 
 ### Make the Pull Request
 The next time you open up GitHub Desktop, you'll notice that it has dutifully kept track of which files you've added, deleted, or changed.
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-14.png?raw=true" width="480" />
+
 On the left side of this window, you can see a list of all the files, and the button for adding a commit. **You must write a summary of what you've changed**. Use the list to review the changes yourself, and write a quick summary and (optionally) a longer description of your changes.
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-15.png?raw=true" width="240" />
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-16.png?raw=true" width="240" />
+
 
 When you're ready, click "Commit to \<branch>". (Where \<branch> is the name of the branch you created.)
 
 Now your changes are tracked in a commit. We now need to upload this commit to GitHub. Simply click "Publish branch", or in the top menu "Repository" > "Push". Despite being named differently, these two buttons do exactly the same thing: upload your branch to GitHub.
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-17.png?raw=true" width="340" />
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-18.png?raw=true" width="240" />
+
 When this is done, you'll get a new option: Create a Pull Request. You can either click this button, or click on the top menu "Branch" > "Create Pull Request"
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-19.png?raw=true" width="340" />
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-20.png?raw=true" width="240" />
 
 This will open github.com with your new pull request. Here you can add more detail and type a longer description. Project maintainers and other public members can see this information, so it's a good idea to be as descriptive as possible.
 
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-21.png?raw=true" width="480" />
+
 ### Discuss
 A pull request is like a forum thread, where people can discuss it. You might be asked to make more changes or clarify why you've done things the way you've done them. I've you've already started work on more changes in a new branch, you can always return to your previous branch with the "Current Branch" menu. **Remember to commit your changes to your new branch first, even if it's a work-in-progress**.
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-22.png?raw=true" width="320" />
 
 This will put you right back to where you were when you made the pull request, so you can make those changes and publish your updated branch.
 
@@ -93,6 +132,8 @@ When the maintainers of the project are satisfied with your work, and there are 
 If you have more to do, start again at Step 2! Create a new branch, and begin working on your next set of changes.
 
 When you're asked which branch to base your work on, select "upstream/main". This will ensure you're starting at the latest version of the files.
+
+<img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-23.png?raw=true" width="480" />
 
 ---
 
