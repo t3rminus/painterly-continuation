@@ -8,10 +8,10 @@ This repository contains all the available textures and options for customizer f
 ## Contributing
 To contribute, fork this repository, add your files, and create a pull-request with your various textures, and option description JSON files. An example with two options for dirt and sand might include the following files:
 ```
-/textures/block/dirt:
+/textures/blocks/dirt:
 - dirt-myname.png
 - dirt-myname.json
-/textures/block/sand:
+/textures/blocks/sand:
 - sand-myname.png
 - sand-myname.json
 ```
