@@ -1,6 +1,5 @@
 {
-  "category": "grass",
-  "group": "blocks",
+  "category": "basic",
   "name": "Golf Course Grass",
   "choice": "Change my grass to biome golf course grass",
   "author": "rhodox",
@@ -9,7 +8,7 @@
     { "author": "nobody", "date": "1970-02-30" }
   ],
   "output": {
-    "assets/minecraft/textures/block/grass_block_side.png": ["@blocks:grass", "golfcourse-side.png"],
+    "assets/minecraft/textures/block/grass_block_side.png": ["@blocks:dirt", "golfcourse-side.png"],
     "assets/minecraft/textures/block/grass_block_top.png": ["golfcourse-top.png"]
   }
 }

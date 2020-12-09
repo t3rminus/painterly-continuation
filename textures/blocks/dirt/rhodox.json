@@ -1,6 +1,5 @@
 {
-  "category": "dirt",
-  "group": "blocks",
+  "category": "basic",
   "name": "Normal Dirt",
   "choice": "I would like normal dirt in basic beige",
   "author": "rhodox",
