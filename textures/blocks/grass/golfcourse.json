@@ -7,6 +7,7 @@
   "edits": [
     { "author": "nobody", "date": "1970-02-30" }
   ],
+  "preview": "golfcourse-top.png",
   "output": {
     "assets/minecraft/textures/block/grass_block_side.png": ["@blocks:dirt", "golfcourse-side.png"],
     "assets/minecraft/textures/block/grass_block_top.png": ["golfcourse-top.png"]

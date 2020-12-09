@@ -7,8 +7,9 @@
   "edits": [
     { "author": "nobody", "date": "1970-02-30" }
   ],
+  "preview": "rhodox-top.png",
   "output": {
-    "assets/minecraft/textures/block/grass_block_side.png": ["@blocks:dirt", "golfcourse-side.png"],
-    "assets/minecraft/textures/block/grass_block_top.png": ["golfcourse-top.png"]
+    "assets/minecraft/textures/block/grass_block_side.png": ["@blocks:dirt", "rhodox-side.png"],
+    "assets/minecraft/textures/block/grass_block_top.png": ["rhodox-top.png"]
   }
 }
