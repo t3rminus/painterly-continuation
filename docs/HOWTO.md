@@ -9,7 +9,7 @@ The general process is as follows:
     - [Download GitHub Desktop](#download-github-desktop)
     - [Fork the repository](#fork-the-repository)
 2. [Make your changes](#step-2---make-your-changes) - Do whatever you'd like to the copy
-    - [Craete a branch](#create-a-branch)
+    - [Create a branch](#create-a-branch)
     - [Make changes!](#make-changes)
 3. [Make a Pull Request](#step-3---make-a-pull-request) - ***Request*** that your changes are ***pulled*** back into the original repository
     - [Make the pull request](#make-the-pull-request)
