@@ -1,17 +1,22 @@
 # Painterly Pack Fan Continuation
-## Customizer Repo
+## Customizer Source Repo
 
 This repository contains all the available textures and options for customizer for the fan continuation of the painterly pack.
 
 ---
 
 ## Contributing
-To contribute, create a pull-request with your various textures, and option description json files. An example option might include the following files:
+To contribute, fork this repository, add your files, and create a pull-request with your various textures, and option description JSON files. An example with two options for dirt and sand might include the following files:
 ```
 /textures/block/dirt:
 - dirt-myname.png
 - dirt-myname.json
+/textures/block/sand:
+- sand-myname.png
+- sand-myname.json
 ```
+
+If you are unable to create a pull request, create an issue and attach your files so they can be added by someone who can make a pull request.
 
 The contents of the json are formatted as follows:
 ```js
