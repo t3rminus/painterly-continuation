@@ -4,12 +4,22 @@ Contributing to projects on GitHub is surprisingly easy, and done in a way to tr
 
 The general process is as follows:
 
-1. Fork the project - This will create a copy that you can work on
-2. Make your changes - Do whatever you'd like to the copy
-3. Make a Pull Request - ***Request*** that your changes are ***pulled*** back into the original repository
-4. Contribute more - Keep doing what you're doing!
+1. [Fork the project](#step-1---make-an-account-and-fork-the-project) - This will create a copy that you can work on
+    - [Create an account](#create-an-account)
+    - [Download GitHub Desktop](#download-github-desktop)
+    - [Fork the repository](#fork-the-repository)
+2. [Make your changes](#step-2---make-your-changes) - Do whatever you'd like to the copy
+    - [Craete a branch](#create-a-branch)
+    - [Make changes!](#make-changes)
+3. [Make a Pull Request](#step-3---make-a-pull-request) - ***Request*** that your changes are ***pulled*** back into the original repository
+    - [Make the pull request](#make-the-pull-request)
+    - [Discuss and edit](#discuss-and-edit)
+    - [Have your changes merged](#have-your-changes-merged)
+4. [Contribute more](#step-4---contribute-more) - Keep doing what you're doing!
 
 For the sake of keeping things as beginner-friendly as possible, I'm going to write this guide using the GitHub Desktop application. This entire process can be accomplished with the command-line git tools, and I encourage you to read up on the process elsewhere if you want to learn more.
+
+---
 
 ### Terminology
 Some common terms are provided here to add some clarification to the tutorial. It's alright if you don't understand them completely, since it should be fairly clear how things work in context, and you'll pick it up in no time.
@@ -18,6 +28,18 @@ Some common terms are provided here to add some clarification to the tutorial. I
 - **fork** - Like a fork in the road, this is a copy of the entire project up to a certain point. At that point, you're able to take the project in a different direction.
 - **branch** - Similar to a fork, but smaller. A fork can have many branches, and it's recommended that you create a new branch whenever you start making changes.
 - **merge** - Exactly what it sounds like. The act of merging the changes in a pull request into the project, or from one branch to another.
+
+---
+
+## Questions, Comments, or Suggestions?
+If something in this guide isn't clear, please click here to open an issue, and describe the problems you're having: https://github.com/t3rminus/painterly-continuation/issues/new
+
+You can also use these steps to propose changes to this guide itself! *(gasp!)*
+Follow the steps, and you'll find the guide under the "docs" directory, where you can edit it directly using Markdown formatting:
+- https://daringfireball.net/projects/markdown/syntax
+- https://github.github.com/gfm/
+
+---
 
 ## Step 1 - Make an account and fork the project
 
@@ -118,7 +140,7 @@ This will open github.com with your new pull request. Here you can add more deta
 
 <img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-21.png?raw=true" width="480" />
 
-### Discuss
+### Discuss and edit
 A pull request is like a forum thread, where people can discuss it. You might be asked to make more changes or clarify why you've done things the way you've done them. I've you've already started work on more changes in a new branch, you can always return to your previous branch with the "Current Branch" menu. **Remember to commit your changes to your new branch first, even if it's a work-in-progress**.
 
 <img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-22.png?raw=true" width="320" />
@@ -129,18 +151,8 @@ This will put you right back to where you were when you made the pull request, s
 When the maintainers of the project are satisfied with your work, and there are no mistakes, your changes will be merged in, and your contribution will be noted in the original repository. Hooray!
 
 ## Step 4 - Contribute more
-If you have more to do, start again at Step 2! Create a new branch, and begin working on your next set of changes.
+If you have more to do, [start again at Step 2](#step-2---make-your-changes)! Create a new branch, and begin working on your next set of changes.
 
 When you're asked which branch to base your work on, select "upstream/main". This will ensure you're starting at the latest version of the files.
 
 <img src="https://github.com/t3rminus/painterly-continuation/blob/main/docs/images/howto-23.png?raw=true" width="480" />
-
----
-
-## Questions, Comments, or Suggestions?
-If something in this guide isn't clear, please click here to open an issue, and describe the problems you're having: https://github.com/t3rminus/painterly-continuation/issues/new
-
-You can also use these steps to propose changes to this guide itself! *(gasp!)*
-Follow the steps, and you'll find the guide under the "docs" directory, where you can edit it directly using Markdown formatting:
-- https://daringfireball.net/projects/markdown/syntax
-- https://github.github.com/gfm/
