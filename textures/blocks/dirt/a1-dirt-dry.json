@@ -1,0 +1,9 @@
+{
+  "category": "basic",
+  "name": "Wasteland Dirt",
+  "choice": "I would like wasteland dirt in cracked-earth chamoisee.",
+  "author": "rhodox",
+  "output": {
+    "assets/minecraft/textures/block/dirt.png": "a1-dirt-dry.png"
+  }
+}
