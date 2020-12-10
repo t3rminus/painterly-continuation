@@ -1,0 +1,14 @@
+{
+  "category": "decorative",
+  "name": "Bordered Modern Grate Windows",
+  "choice": "I would like bordered modern grate windows.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "edits": [
+    { "author": "nobody", "date": "1970-02-30" }
+  ],
+  "preview": "a1-glasswindow-ironfencemodern.png",
+  "output": {
+    "assets/minecraft/textures/block/glass.png": ["a1-glasswindow-ironfencemodern.png"]
+  }
+}
