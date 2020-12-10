@@ -1,0 +1,9 @@
+{
+  "category": "basic",
+  "name": "Red Dirt",
+  "choice": "Make my dirt an all-american Oklahoma ochre.",
+  "author": "rhodox",
+  "output": {
+    "assets/minecraft/textures/block/dirt.png": "a1-dirt-red.png"
+  }
+}

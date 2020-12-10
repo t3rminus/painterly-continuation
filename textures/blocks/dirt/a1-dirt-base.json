@@ -1,0 +1,10 @@
+{
+  "category": "basic",
+  "name": "Paige's Dirt",
+  "choice": "I want Paige's default minecraft-style dirt.",
+  "author": "rhodox",
+  "telethon": true,
+  "output": {
+    "assets/minecraft/textures/block/dirt.png": "a1-dirt-base.png"
+  }
+}

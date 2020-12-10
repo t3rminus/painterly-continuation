@@ -1,0 +1,10 @@
+{
+  "category": "basic",
+  "name": "Paige's Dark Dirt",
+  "choice": "I want Paige's dark minecraft-style dirt.",
+  "author": "rhodox",
+  "telethon": true,
+  "output": {
+    "assets/minecraft/textures/block/dirt.png": "a1-dirt-basedark.png"
+  }
+}
