@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "name": "A Prickly Situation",
+  "choice": "My Painterly Icon: A Prickly Situation.",
+  "author": "rhodox",
+  "date": "1970-01-30",
+  "edits": [],
+  "output": {
+    "pack.png": ["a-prickly-situation.png"]
+  }
+}
