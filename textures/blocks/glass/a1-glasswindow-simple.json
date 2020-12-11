@@ -4,11 +4,7 @@
   "choice": "Give me simple small panes.",
   "author": "Rhodox",
   "date": "2012-12-09",
-  "edits": [
-    { "author": "nobody", "date": "1970-02-30" }
-  ],
-  "preview": "a1-glasswindow-simple.png",
   "output": {
-    "assets/minecraft/textures/block/glass.png": ["a1-glasswindow-simple.png"]
+    "assets/minecraft/textures/block/glass.png": "a1-glasswindow-simple.png"
   }
 }

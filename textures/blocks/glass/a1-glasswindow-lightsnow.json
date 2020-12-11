@@ -4,11 +4,7 @@
   "choice": "I want snow-frosted light wood windows.",
   "author": "Rhodox",
   "date": "2012-12-09",
-  "edits": [
-    { "author": "nobody", "date": "1970-02-30" }
-  ],
-  "preview": "a1-glasswindow-lightsnow.png",
   "output": {
-    "assets/minecraft/textures/block/glass.png": ["a1-glasswindow-lightsnow.png"]
+    "assets/minecraft/textures/block/glass.png": "a1-glasswindow-lightsnow.png"
   }
 }

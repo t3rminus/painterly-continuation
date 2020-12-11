@@ -1,14 +1,10 @@
 {
   "category": "decorative",
-  "name": "Chestnut Wood Pane",
-  "choice": "Give me a chestnut wood pane for my windows.",
+  "name": "Chestnut Wood Screen",
+  "choice": "Give me a chestnut wood screen for my windows.",
   "author": "Rhodox",
   "date": "2012-12-09",
-  "edits": [
-    { "author": "nobody", "date": "1970-02-30" }
-  ],
-  "preview": "a1-glasswindow-chestnutwood.png",
   "output": {
-    "assets/minecraft/textures/block/glass.png": ["a1-glasswindow-chestnutwood.png"]
+    "assets/minecraft/textures/block/glass.png": "a1-glasswindow-chestnutwood.png"
   }
 }
