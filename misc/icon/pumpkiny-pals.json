@@ -3,10 +3,8 @@
   "name": "Pumpkiny Pals",
   "choice": "My Painterly Icon: Pumpkiny Pals.",
   "author": "rhodox",
-  "date": "1970-01-30",
-  "edits": [],
-  "preview": "pumpkiny-pals.png",
+  "date": "2012-12-09",
   "output": {
-    "pack.png": ["pumpkiny-pals.png"]
+    "pack.png": "pumpkiny-pals.png"
   }
 }
