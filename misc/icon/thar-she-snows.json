@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "name": "Thar She Snows!",
+  "choice": "My Painterly Icon: Thar She Snows!",
+  "author": "rhodox",
+  "date": "1970-01-30",
+  "edits": [],
+  "output": {
+    "pack.png": ["thar-she-snows.png"]
+  }
+}
