@@ -44,7 +44,7 @@ The contents of the json are formatted as follows:
   "tags": ["classic","dark"],
 
   // Optional. If this texture is part of a selectable collection
-  "collection": "Rhodox",
+  "collections": ["the defaults", "the stuff Rhodox uses"],
 
   // List of output files
   "output": {
