@@ -1,0 +1,11 @@
+{
+  "category": "decorative",
+  "name": "White Wood Border Window",
+  "choice": "Give me a modern-styled whitewashed wood border window.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "preview": "a1-glasspane-white.png",
+  "output": {
+    "assets/minecraft/textures/block/glass_pane_top.png": ["a1-glasspane-white.png"]
+  }
+}

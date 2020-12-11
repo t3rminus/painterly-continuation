@@ -1,0 +1,11 @@
+{
+  "category": "decorative",
+  "name": "Simple Raw Wood RPG Window",
+  "choice": "Give me Foxx Ramos' simple raw wood RPG window.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "preview": "a1-glasspane-rawrpg.png",
+  "output": {
+    "assets/minecraft/textures/block/glass_pane_top.png": ["a1-glasspane-rawrpg.png"]
+  }
+}

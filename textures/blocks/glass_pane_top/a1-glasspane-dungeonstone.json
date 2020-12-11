@@ -1,0 +1,11 @@
+{
+  "category": "decorative",
+  "name": "Dungeon Stone-Bordered Window",
+  "choice": "I want to use dungeon stone-bordered glass.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "preview": "a1-glasspane-dungeonstone.png",
+  "output": {
+    "assets/minecraft/textures/block/glass_pane_top.png": ["a1-glasspane-dungeonstone.png"]
+  }
+}
