@@ -3,7 +3,9 @@
   "name": "Paige's Dark Dirt",
   "choice": "I want Paige's dark minecraft-style dirt.",
   "author": "Rhodox",
+  "date": "2012-1-12",
   "telethon": true,
+  "tags": ["classic","dark"],
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-basedark.png"
   }

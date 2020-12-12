@@ -3,7 +3,8 @@
   "name": "Thar She Snows!",
   "choice": "My Painterly Icon: Thar She Snows!",
   "author": "Rhodox",
-  "date": "2012-12-09",
+  "date": "2010-11-11",
+  "tags": ["classic"],
   "output": {
     "pack.png": "thar-she-snows.png"
   }

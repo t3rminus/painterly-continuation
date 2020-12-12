@@ -3,7 +3,8 @@
   "name": "Bordered Modern Grate Windows",
   "choice": "I would like bordered modern grate windows.",
   "author": "Rhodox",
-  "date": "2012-12-09",
+  "date": "2012-12-01",
+  "tags": ["classic","ironbars"],
   "output": {
     "assets/minecraft/textures/block/glass.png": "a1-glasswindow-ironfencemodern.png"
   }

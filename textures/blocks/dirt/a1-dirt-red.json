@@ -3,6 +3,8 @@
   "name": "Red Dirt",
   "choice": "Make my dirt an all-american Oklahoma ochre.",
   "author": "Rhodox",
+  "date": "2011-2-18",
+  "tags": ["classic"],
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-red.png"
   }
