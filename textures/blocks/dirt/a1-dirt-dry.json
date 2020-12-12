@@ -3,6 +3,9 @@
   "name": "Wasteland Dirt",
   "choice": "I would like wasteland dirt in cracked-earth chamoisee.",
   "author": "Rhodox",
+  "date": "2011-2-18",
+  "tags": ["classic"],
+  "collections": ["the stuff Rhodox uses"],
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-dry.png"
   }

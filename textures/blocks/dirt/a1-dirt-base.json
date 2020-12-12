@@ -3,7 +3,9 @@
   "name": "Paige's Dirt",
   "choice": "I want Paige's default minecraft-style dirt.",
   "author": "Rhodox",
+  "date": "2012-1-12",
   "telethon": true,
+  "tags": ["classic"],
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-base.png"
   }

@@ -3,6 +3,9 @@
   "name": "Basic Beige Dirt",
   "choice": "I would like normal dirt in basic beige",
   "author": "Rhodox",
+  "date": "2011-2-18",
+  "tags": ["classic"],
+  "collections": ["the defaults"],
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-dirt.png"
   }
