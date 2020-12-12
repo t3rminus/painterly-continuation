@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Painted Line Wool",
+  "choice": "I would like painted line cloth for diagrams.",
+  "author": "Rhodox",
+  "date": "2011-4-13",
+  "preview": "a0-clothfull-line.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-line.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-line.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-line.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-line.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-line.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-line.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-line.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-line.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-line.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-line.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-line.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-line.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-line.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-line.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-line.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-line.png"
+  }
+}

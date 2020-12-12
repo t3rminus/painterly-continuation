@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Chess Wool",
+  "choice": "I would like my cloth blocks to form a chess set.",
+  "author": "Rhodox",
+  "date": "2011-5-26",
+  "preview": "a0-clothfull-chess.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-chess.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-chess.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-chess.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-chess.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-chess.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-chess.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-chess.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-chess.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-chess.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-chess.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-chess.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-chess.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-chess.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-chess.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-chess.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-chess.png"
+  }
+}

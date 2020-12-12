@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Pirate-Style Wool",
+  "choice": "I would like a pirate-style black wool texture.",
+  "author": "Rhodox",
+  "date": "2011-1-14",
+  "preview": "a0-clothfull-pirate.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-pirate.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-pirate.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-pirate.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-pirate.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-pirate.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-pirate.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-pirate.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-pirate.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-pirate.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-pirate.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-pirate.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-pirate.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-pirate.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-pirate.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-pirate.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-pirate.png"
+  }
+}

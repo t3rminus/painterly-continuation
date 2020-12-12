@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Modern Block Wool",
+  "choice": "Give me space-age decomodules for Modern Minecraft Living.",
+  "author": "Rhodox",
+  "date": "2011-4-13",
+  "preview": "a0-clothfull-modern.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-modern.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-modern.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-modern.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-modern.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-modern.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-modern.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-modern.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-modern.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-modern.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-modern.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-modern.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-modern.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-modern.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-modern.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-modern.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-modern.png"
+  }
+}

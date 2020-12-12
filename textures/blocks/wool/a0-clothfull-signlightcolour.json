@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Varied Signposts in Light Wood Wool",
+  "choice": "Give me varied style craftable signposts in light wood.",
+  "author": "Rhodox",
+  "date": "2011-2-10",
+  "preview": "a0-clothfull-signlightcolour.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-signlightcolour.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-signlightcolour.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-signlightcolour.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-signlightcolour.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-signlightcolour.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-signlightcolour.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-signlightcolour.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-signlightcolour.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-signlightcolour.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-signlightcolour.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-signlightcolour.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-signlightcolour.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-signlightcolour.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-signlightcolour.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-signlightcolour.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-signlightcolour.png"
+  }
+}

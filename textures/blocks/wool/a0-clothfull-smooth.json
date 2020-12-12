@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Original Painterly Wool",
+  "choice": "I would like the original Painterly cloth texture.",
+  "author": "Rhodox",
+  "date": "2011-1-14",
+  "preview": "a0-clothfull-checker.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-checker.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-checker.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-checker.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-checker.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-checker.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-checker.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-checker.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-checker.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-checker.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-checker.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-checker.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-checker.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-checker.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-checker.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-checker.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-checker.png"
+  }
+}

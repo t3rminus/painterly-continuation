@@ -1,0 +1,27 @@
+{
+  "category": "decorative",
+  "name": "Xax's Plain-style Zekey Wool",
+  "choice": "I want Xax's plain-style Zekey cloth, instead.",
+  "author": "Rhodox",
+  "date": "2012-1-10",
+  "preview": "a0-clothfull-zekey.png",
+  "telethon": true,
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-zekey.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-zekey.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-zekey.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-zekey.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-zekey.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-zekey.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-zekey.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-zekey.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-zekey.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-zekey.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-zekey.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-zekey.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-zekey.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-zekey.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-zekey.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-zekey.png"
+  }
+}

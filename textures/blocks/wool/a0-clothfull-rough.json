@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "BARON DEF CHARGER'S Woven Wool",
+  "choice": "I would like BARONS DEF CHARGER'S woven cloth texture.",
+  "author": "Rhodox",
+  "date": "2011-1-14",
+  "preview": "a0-clothfull-rough.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-rough.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-rough.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-rough.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-rough.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-rough.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-rough.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-rough.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-rough.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-rough.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-rough.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-rough.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-rough.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-rough.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-rough.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-rough.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-rough.png"
+  }
+}

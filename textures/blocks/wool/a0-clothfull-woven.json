@@ -1,0 +1,26 @@
+{
+  "category": "decorative",
+  "name": "Stitched Edge Wool",
+  "choice": "I would like the stitched edge cloth texture.",
+  "author": "Rhodox",
+  "date": "2011-1-14",
+  "preview": "a0-clothfull-woven.png",
+  "output": {
+    "assets/minecraft/textures/block/black_wool.png": "a1-clothblack-woven.png",
+    "assets/minecraft/textures/block/blue_wool.png": "a1-clothblue-woven.png",
+    "assets/minecraft/textures/block/brown_wool.png": "a1-clothbrown-woven.png",
+    "assets/minecraft/textures/block/cyan_wool.png": "a1-clothcyan-woven.png",
+    "assets/minecraft/textures/block/gray_wool.png": "a1-clothdarkgrey-woven.png",
+    "assets/minecraft/textures/block/green_wool.png": "a1-clothgreen-woven.png",
+    "assets/minecraft/textures/block/light_blue_wool.png": "a1-clothlightblue-woven.png",
+    "assets/minecraft/textures/block/light_gray_wool.png": "a1-clothlightgrey-woven.png",
+    "assets/minecraft/textures/block/lime_wool.png": "a1-clothlightgreen-woven.png",
+    "assets/minecraft/textures/block/magenta_wool.png": "a1-clothmagenta-woven.png",
+    "assets/minecraft/textures/block/orange_wool.png": "a1-clothorange-woven.png",
+    "assets/minecraft/textures/block/pink_wool.png": "a1-clothpink-woven.png",
+    "assets/minecraft/textures/block/purple_wool.png": "a1-clothpurple-woven.png",
+    "assets/minecraft/textures/block/red_wool.png": "a1-clothred-woven.png",
+    "assets/minecraft/textures/block/white_wool.png": "a1-clothwhite-woven.png",
+    "assets/minecraft/textures/block/yellow_wool.png": "a1-clothyellow-woven.png"
+  }
+}
