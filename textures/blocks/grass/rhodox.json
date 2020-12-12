@@ -2,15 +2,11 @@
   "category": "basic",
   "name": "Biome Grass",
   "choice": "Change my grass to biome-compliant grass",
-  "author": "rhodox",
-  "date": "1970-01-30",
-  "edits": [
-    { "author": "nobody", "date": "1970-02-30" }
-  ],
-  "preview": "rhodox-top.png",
+  "author": "Rhodox",
+  "date": "2012-12-09",
   "output": {
     "assets/minecraft/textures/block/grass_block_side.png": ["@assets/minecraft/textures/block/dirt.png", "rhodox-side.png"],
-    "assets/minecraft/textures/block/grass_block_side_overlay.png": ["rhodox-side.png"],
-    "assets/minecraft/textures/block/grass_block_top.png": ["rhodox-top.png"]
+    "assets/minecraft/textures/block/grass_block_side_overlay.png": "rhodox-side.png",
+    "assets/minecraft/textures/block/grass_block_top.png": "rhodox-top.png"
   }
 }

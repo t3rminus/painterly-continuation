@@ -1,0 +1,10 @@
+{
+  "name": "Large Stone Tiled Dark Coarse Dirt",
+  "choice": "I want large stone tiled dark coarse dirt.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "category": "basic",
+  "output": {
+    "assets/minecraft/textures/block/coarse_dirt.png": "a1-coarsedirt-basedarkbrickdark.png"
+  }
+}

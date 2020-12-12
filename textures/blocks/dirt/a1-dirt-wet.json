@@ -2,7 +2,7 @@
   "category": "basic",
   "name": "Wet Rainforest Dirt",
   "choice": "Give me rich, wet soil in rainforest russet.",
-  "author": "rhodox",
+  "author": "Rhodox",
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-wet.png"
   }

@@ -2,7 +2,7 @@
   "category": "basic",
   "name": "Basic Beige Dirt",
   "choice": "I would like normal dirt in basic beige",
-  "author": "rhodox",
+  "author": "Rhodox",
   "output": {
     "assets/minecraft/textures/block/dirt.png": "a1-dirt-dirt.png"
   }

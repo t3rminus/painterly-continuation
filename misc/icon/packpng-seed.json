@@ -4,8 +4,7 @@
   "choice": "My Painterly Icon: Original Pack.png Seed Rendered with Painterly Textures",
   "author": "Piogre",
   "date": "2020-09-20",
-  "edits": [],
   "output": {
-    "pack.png": ["packpng-seed.png"]
+    "pack.png": "packpng-seed.png"
   }
 }

@@ -1,9 +1,9 @@
 # Painterly Pack Fan Continuation
 ## Customizer Source Repo
 
-This repository contains all the available textures and options for customizer for the fan continuation of the painterly pack. To contribute to this project you'll need to add changes in the form of Pull Requests. 
+This repository contains all the available textures and options for customizer for the fan continuation of the painterly pack. To contribute to this project you'll need to add changes in the form of Pull Requests.
 
-If you're unfamiliar with this process, read our handy guide here: 
+If you're unfamiliar with this process, read our handy guide here:
 [Making Pull Requests the Easy Way](https://github.com/t3rminus/painterly-continuation/blob/main/docs/HOWTO.md)
 
 ---
@@ -35,6 +35,16 @@ The contents of the json are formatted as follows:
 
   // Optional. Which file to use as preview (if not specified, will use first output)
   "preview": "dirt-myname.png",
+
+  // Optional. Whether or not this texture was part of the painterly telethon
+  // USE ONLY WHEN IMPORTING CLASSIC TELETHON TEXTURES
+  "telethon": true,
+
+  // Optional. Tags to be used for filtering and searching
+  "tags": ["classic","dark"],
+
+  // Optional. If this texture is part of a selectable collection
+  "collections": ["the defaults", "the stuff Rhodox uses"],
 
   // List of output files
   "output": {

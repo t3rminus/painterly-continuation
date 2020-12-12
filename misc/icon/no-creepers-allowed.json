@@ -1,0 +1,10 @@
+{
+  "category": "misc",
+  "name": "No Creepers Allowed!",
+  "choice": "My Painterly Icon: No Creepers Allowed!",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "output": {
+    "pack.png": "no-creepers-allowed.png"
+  }
+}

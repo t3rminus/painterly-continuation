@@ -1,0 +1,10 @@
+{
+  "category": "decorative",
+  "name": "Modern-Styled Dark Wood Border Window",
+  "choice": "Give me a modern-styled dark wood border window.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "output": {
+    "assets/minecraft/textures/block/glass.png": "a1-glasswindow-darkmodern.png"
+  }
+}
