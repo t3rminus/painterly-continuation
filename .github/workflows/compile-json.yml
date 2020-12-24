@@ -1,0 +1,40 @@
+name: combine-json
+#on:
+#  push:
+#    tags:
+#    - 'v*'
+on: push
+jobs:
+  combine-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+      - name: Install dependencies
+        run: npm install
+      - name: Combine JSON
+        run: npm start # Will eventually also build default pacakge
+      - uses: actions/upload-artifact@v2
+        with:
+          name: combined.json
+          path: build/combined.json
+#      - name: Create Release
+#        id: create_release
+#        uses: actions/create-release@v1
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#        with:
+#          tag_name: ${{ github.ref }}
+#          release_name: Release ${{ github.ref }}
+#          draft: true
+#          prerelease: true
+#      - name: Upload Release Asset
+#        id: upload-release-asset
+#        uses: actions/upload-release-asset@v1
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#        with:
+#          upload_url: ${{ steps.create_release.outputs.upload_url }}
+#          asset_path: build/combined.json
+#          asset_name: combined.json
+#          asset_content_type: application/json

@@ -1,0 +1,17 @@
+{
+  "name": "painterly-continuation",
+  "version": "0.1.0",
+  "description": "",
+  "main": "scripts/build.js",
+  "scripts": {
+    "start": "node scripts/build.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "fs-extra": "^9.0.1",
+    "glob": "^7.1.6"
+  }
+}
