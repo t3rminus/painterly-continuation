@@ -1,0 +1,14 @@
+{
+  "category": "nether",
+  "name": "Vanilla-inspired Warped Stem",
+  "choice": "Give me a vanilla-inspired warped stem.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/warped_stem_side.png": "warpedstemsidevanilla-fortis.png",
+    "assets/minecraft/textures/block/warped_stem_side.png.mcmeta": "warpedstemsidevanilla-fortis.png.mcmeta",
+    "assets/minecraft/textures/block/warped_stem_top.png": "warpedstemtopvanilla-fortis.png",
+    "assets/minecraft/textures/block/stripped_warped_stem_side.png": "warpedstemsidestrippedvanilla-fortis.png",
+    "assets/minecraft/textures/block/stripped_warped_stem_top.png": "warpedstemtopstrippedvanilla-fortis.png"
+  }
+}
