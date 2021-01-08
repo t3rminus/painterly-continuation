@@ -1,0 +1,10 @@
+{
+  "category": "nether",
+  "name": "Teal Slat Warped Planks",
+  "choice": "Make my warped planks large slats in standard teal.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/warped_planks.png": "tealslats-fortis.png"
+  }
+}

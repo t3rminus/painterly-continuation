@@ -1,0 +1,12 @@
+{
+  "category": "nether",
+  "name": "Eyestalk Warped Fungus",
+  "choice": "Change my warped fungus to eyestalks.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/warped_fungus.png": "eyestalks-fortis.png",
+    "assets/minecraft/textures/block/warped_fungus_pot.png": "eyestalkspotted-fortis.png",
+    "assets/minecraft/models/block/potted_warped_fungus.json": "eyestalkspotted-fortis.json"
+  }
+}
