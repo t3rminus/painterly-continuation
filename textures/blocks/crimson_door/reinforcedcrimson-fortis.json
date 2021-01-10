@@ -1,0 +1,11 @@
+{
+  "category": "nether",
+  "name": "Reinforced Crimson Door",
+  "choice": "Make my crimson door a reinforced one based on Strangelet Wave's red door.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/crimson_door_top.png": "reinforcedcrimsontop-fortis.png",
+    "assets/minecraft/textures/block/crimson_door_bottom.png": "reinforcedcrimsonbottom-fortis.png"
+  }
+}
