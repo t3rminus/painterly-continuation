@@ -1,0 +1,11 @@
+{
+  "category": "nether",
+  "name": "Wavy Warped Door",
+  "choice": "Make my warped door a wavy teal door with a window.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/warped_door_top.png": "wavywarpedtop-fortis.png",
+    "assets/minecraft/textures/block/warped_door_bottom.png": "wavywarpedbottom-fortis.png"
+  }
+}
