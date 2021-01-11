@@ -1,11 +1,7 @@
-name: combine-json
-#on:
-#  push:
-#    tags:
-#    - 'v*'
+name: import-options
 on: push
 jobs:
-  combine-json:
+  import-options:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -14,12 +10,19 @@ jobs:
           node-version: '14'
       - name: Install dependencies
         run: npm install
-      - name: Combine JSON
-        run: npm start # Will eventually also build default pacakge
-      - uses: actions/upload-artifact@v2
-        with:
-          name: combined.json
-          path: build/combined.json
+      - name: Import JSON into database
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+        run: npm start
+# TODO: Run a build script to create the "Default" release pack
+#on:
+#  push:
+#    tags:
+#    - 'v*'
+#jobs:
+#  build-default:
+#    runs-on: ubuntu-latest
+#    steps:
 #      - name: Create Release
 #        id: create_release
 #        uses: actions/create-release@v1
