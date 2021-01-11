@@ -1,0 +1,11 @@
+{
+  "category": "nether",
+  "name": "Creeping Warped Nylium",
+  "choice": "Change my warped nylium to creeping teal fungus.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/warped_nylium_side.png": ["@assets/minecraft/textures/block/netherrack.png", "creepingside-fortis.png"],
+    "assets/minecraft/textures/block/warped_nylium.png": "creepingtop-fortis.png"
+  }
+}

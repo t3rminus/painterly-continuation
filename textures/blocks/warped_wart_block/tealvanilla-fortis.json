@@ -1,0 +1,10 @@
+{
+  "category": "nether",
+  "name": "Definitive Painterly Style Warped Wart Block",
+  "choice": "Give me a warped wart block in the style of Rhodox's Definitive Painterly Pack.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/warped_trapdoor.png": "painterly-fortis.png"
+  }
+}
