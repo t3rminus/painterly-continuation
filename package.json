@@ -4,7 +4,7 @@
   "description": "",
   "main": "scripts/build.js",
   "scripts": {
-    "start": "node scripts/build.js"
+    "start": "node scripts/import.js"
   },
   "author": "",
   "license": "UNLICENSED",
