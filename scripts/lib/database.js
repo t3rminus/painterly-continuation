@@ -42,7 +42,12 @@ const VERSION = 1;
 
 export default class Database {
   constructor() {
-    this.client = new Pool({ connectionString: process.env.DATABASE_URL });
+    this.client = new Pool({
+      connectionString: process.env.DATABASE_URL,
+      ssl: {
+        rejectUnauthorized: false
+      }
+    });
   }
 
   async initialize(baseUrl) {
