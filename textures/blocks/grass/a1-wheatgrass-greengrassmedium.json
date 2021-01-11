@@ -1,0 +1,10 @@
+{
+  "name": "Light Green Wild Grass",
+  "choice": "I would like my wild grass to be light green.",
+  "author": "Rhodox",
+  "date": "2012-12-09",
+  "category": "vegetation",
+  "output": {
+    "assets/minecraft/textures/block/grass.png": "a1-wheatgrass-greengrassmedium.png"
+  }
+}
