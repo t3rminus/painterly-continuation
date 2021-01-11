@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "fs-extra": "^9.0.1",
-    "glob": "^7.1.6"
+    "glob": "^7.1.6",
+    "pg": "^8.5.1"
   }
 }
