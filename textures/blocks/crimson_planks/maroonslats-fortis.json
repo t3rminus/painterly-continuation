@@ -1,0 +1,10 @@
+{
+  "category": "nether",
+  "name": "Maroon Slat Crimson Planks",
+  "choice": "Make my crimson planks large slats in standard maroon.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/crimson_planks.png": "maroonslats-fortis.png"
+  }
+}

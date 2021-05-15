@@ -1,0 +1,14 @@
+{
+  "category": "nether",
+  "name": "Vanilla-inspired Crimson Stem",
+  "choice": "Give me a vanilla-inspired crimson stem.",
+  "author": "Fortis",
+  "date": "2020-08-15",
+  "output": {
+    "assets/minecraft/textures/block/crimson_stem_side.png": "crimsonstemsidevanilla-fortis.png",
+    "assets/minecraft/textures/block/crimson_stem_side.png.mcmeta": "crimsonstemsidevanilla-fortis.png.mcmeta",
+    "assets/minecraft/textures/block/crimson_stem_top.png": "crimsonstemtopvanilla-fortis.png",
+    "assets/minecraft/textures/block/stripped_crimson_stem_side.png": "crimsonstemsidestrippedvanilla-fortis.png",
+    "assets/minecraft/textures/block/stripped_crimson_stem_top.png": "crimsonstemtopstrippedvanilla-fortis.png",
+  }
+}
